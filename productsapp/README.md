@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
 
+```npm install -g @angular/cli@
+```
+
 # Dependencias
 
 Para começar assim que  entrar no projeto rode o comendo de instalação de dependências do npm 
